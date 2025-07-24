@@ -1,3 +1,11 @@
+# 👨‍💻 Eneasz "KeneKbee" Baranowski
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KeneKbee&theme=nightowl&hide_border=false" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeneKbee&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 # 💫 About Me:
 ### 🎓 Student in a technical high school (IT/programming profile).<br><br>💻 I code mainly in **C#**, **C++**, and occasionally in **Java** and **JavaScript**.<br><br>🐍 Not a fan of Python.<br><br>🛠️ Interested in desktop software and game development.<br><br>
 
@@ -16,9 +24,5 @@
 ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&labelColor=5C2D91) ![SDL](https://img.shields.io/badge/SDL-15BAFF?style=for-the-badge)
 ## 🛠️ Software
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=KeneKbee&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeneKbee&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
