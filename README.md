@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🎓 Student in a technical high school (IT/programming profile).<br><br>💻 I code mainly in **C#**, **C++**, and occasionally in **Java** and **JavaScript**.<br><br>🐍 Not a fan of Python.<br><br>🛠️ Interested in desktop and game software development.<br><br>
+### 🎓 Student in a technical high school (IT/programming profile).<br><br>💻 I code mainly in **C#**, **C++**, and occasionally in **Java** and **JavaScript**.<br><br>🐍 Not a fan of Python.<br><br>🛠️ Interested in desktop software and game development.<br><br>
 
 
 # 💻 Tech Stack:
