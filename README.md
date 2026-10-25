@@ -7,7 +7,7 @@
 </p>
 
 # About Me:
-### Student in a technical secondary school (IT/programming profile).<br><br>I code mainly in *C++*, *C#* and occasionally in *Java* and *JavaScript*.<br><br>Not a fan of *Python*.<br><br>Interested in mobile/desktop software and game development.<br><br>
+### IT student.<br><br>I code mainly in *C++*, *C#* and occasionally in *Java* and *JavaScript*.<br><br>Not a fan of *Python*.<br><br>Interested in mobile/desktop software and game development.<br><br>
 
 
 # Tech Stack:
