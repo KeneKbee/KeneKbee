@@ -1,4 +1,4 @@
-# 👨‍💻 Eneasz "KeneKbee" Baranowski
+# Eneasz "KeneKbee" Baranowski
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=KeneKbee&theme=nightowl&hide_border=false" />
@@ -6,23 +6,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeneKbee&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-# 💫 About Me:
+# About Me:
 ### 🎓 Student in a technical secondary school (IT/programming profile).<br><br>💻 I code mainly in *C++*, *C#* and occasionally in *Java* and *JavaScript*.<br><br>🐍 Not a fan of *Python*.<br><br>🛠️ Interested in desktop software and game development.<br><br>
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
-## ✏ IDEs / Editors 
+## IDEs / Editors 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-3a56ac.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 💡 General-purpose Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp; ![C#](https://img.shields.io/badge/c%23-5C2D91.svg?style=for-the-badge&logo=csharp&logoColor=white) &nbsp; ![Java](https://img.shields.io/badge/java-FF5500.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-## 🌐 Web
+## Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 🧰 Technologies
+## Technologies
 ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&labelColor=5C2D91) &nbsp; ![SDL](https://img.shields.io/badge/SDL-15BAFF?style=for-the-badge)
-## 🛠️ Software
+## Software
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) &nbsp; ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
